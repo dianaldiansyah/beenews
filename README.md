@@ -17,4 +17,4 @@ Menggunakan warna biru karena sesuai dengan warna brand dari Binus University. S
     </tr>
 </table>
 <h4>BeeNews - Screen Record</h4>
-Link : [Hasil Screen Record](https://images.bangunteknologi.com/beenews.mp4)https://images.bangunteknologi.com/beenews.mp4
+[Link Screen Record](https://images.bangunteknologi.com/beenews.mp4)

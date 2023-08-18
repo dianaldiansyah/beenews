@@ -9,3 +9,9 @@ Menggunakan warna biru karena sesuai dengan warna brand dari Binus University. S
 
 <h4>BeeNews - Navigation</h4>
 <img width="200px" src="https://images.bangunteknologi.com/beenews-navigation.png" alt="Beenews Navigation"/>
+
+<h4>BeeNews - Screen Record</h4>
+<video autoplay loop muted>
+    <source src="https://images.bangunteknologi.com/beenews.mp4" type="video/mp4">
+    <source src="https://images.bangunteknologi.com/beenews.mp4" type="video/mp4">
+</video>

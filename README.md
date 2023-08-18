@@ -6,3 +6,6 @@ Menggunakan warna biru karena sesuai dengan warna brand dari Binus University. S
 
 <h2>BeeNews - Homepage</h2>
 <img width="200px" src="https://images.bangunteknologi.com/beenews-homepage.png" alt="Beenews Homepage"/>
+
+<h2>BeeNews - Navigation</h2>
+<img width="200px" src="https://images.bangunteknologi.com/beenews-navigation.png" alt="Beenews Navigation"/>

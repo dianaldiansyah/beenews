@@ -5,16 +5,55 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:id="@+id/nav_latest"
+            android:title="The Latest" />
+
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/nav_election"
+            android:title="Election 2024" />
+
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_politics"
+            android:title="Politics" />
+
+        <item
+            android:id="@+id/nav_jakarta"
+            android:title="Jakarta" />
+
+        <item
+            android:id="@+id/nav_society"
+            android:title="Society" />
+
+        <item
+            android:id="@+id/nav_economy"
+            android:title="Economy" />
+
+        <item
+            android:id="@+id/nav_asia_pacific"
+            android:title="Asia &amp; Pacific" />
+
+        <item
+            android:id="@+id/nav_americas"
+            android:title="Americas" />
+
+        <item
+            android:id="@+id/nav_middle_east_africa"
+            android:title="Middle East &amp; Africa" />
+
+        <item
+            android:id="@+id/nav_entertainment"
+            android:title="Entertainment" />
+
+        <item
+            android:id="@+id/nav_arts_culture"
+            android:title="Arts &amp; Culture" />
+
+        <item
+            android:id="@+id/nav_technology"
+            android:title="Technology" />
+
+        <item
+            android:id="@+id/nav_todays_paper"
+            android:title="Today's Paper" />
     </group>
 </menu>
